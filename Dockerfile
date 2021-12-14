@@ -1,4 +1,4 @@
-FROM ruby:2.6.3
+FROM ruby:3.0.1
 
 WORKDIR /expense_tracker
 COPY . /expense_tracker
